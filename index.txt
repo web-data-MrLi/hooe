@@ -1,0 +1,28 @@
+全局配置
+
+先写三句话
+git config --global user.name "nate-river"
+git config --global user.email "mayanlong7@icloud.com"
+git config --global push.default simple
+
+cd desktop
+
+git colne   ....
+
+cd 文件夹
+
+git add
+
+git status
+
+git commit -m ""
+
+
+git push
+
+cd .
+
+cd ..
+
+
+
